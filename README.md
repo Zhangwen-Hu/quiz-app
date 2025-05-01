@@ -2,6 +2,15 @@
 
 A web-based quiz platform built with Spring Boot that allows users to take quizzes on various categories and track their performance.
 
+## Screenshots
+
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/cced164f-deb5-4232-8ca3-6d48897361b9" />
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/2fa15e69-3f25-4498-83ca-ba51e1459df1" />
+<img width="1512" alt="3" src="https://github.com/user-attachments/assets/25b66f31-e450-42ab-b5f3-dfb68c1515e0" />
+<img width="1512" alt="4" src="https://github.com/user-attachments/assets/5efa17cc-5c7a-4de0-bbd8-ac3e736a9859" />
+<img width="1512" alt="5" src="https://github.com/user-attachments/assets/a4396b58-409b-4a17-8f9b-1c273c724093" />
+<img width="1512" alt="6" src="https://github.com/user-attachments/assets/714d043f-ea42-4956-9ae3-ce19fd1c88b1" />
+
 ## Features
 
 ### User Features
