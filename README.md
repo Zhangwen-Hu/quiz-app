@@ -36,7 +36,7 @@ A web-based quiz platform built with Spring Boot that allows users to take quizz
 ### Configuration
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/Zhangwen-Hu/quiz-app.git
    cd quiz-app
    ```
 
